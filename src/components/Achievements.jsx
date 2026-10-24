@@ -18,6 +18,12 @@ const Achievements = () => {
     },
     {
       id: 3,
+      title: 'Second Rank – 6th Semester',
+      description: 'Secured Second Rank in the 6th Semester of B.Tech Artificial Intelligence and Data Science, demonstrating consistent academic excellence and strong dedication to learning throughout the program.',
+      image: '/achievements/elegant_topper.jpg'
+    },
+    {
+      id: 4,
       title: 'StackForge Competition Runner-Up',
       description: 'Secured Runner-Up (Second Place) in the StackForge – AI Tools Websites Creation Competition, organized by Dominova and Tagore Engineering College.',
       image: '/achievements/elegant_code.jpg'
